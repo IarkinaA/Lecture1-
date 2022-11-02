@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\bin\Debug\net6.0\Example005_ConditionIfELSE.exe
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\bin\Debug\net6.0\Example005_ConditionIfELSE.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\bin\Debug\net6.0\Example005_ConditionIfELSE.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\bin\Debug\net6.0\Example005_ConditionIfELSE.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\bin\Debug\net6.0\Example005_ConditionIfELSE.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\obj\Debug\net6.0\Example005_ConditionIfELSE.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\obj\Debug\net6.0\Example005_ConditionIfELSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\obj\Debug\net6.0\Example005_ConditionIfELSE.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\obj\Debug\net6.0\Example005_ConditionIfELSE.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\obj\Debug\net6.0\Example005_ConditionIfELSE.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\obj\Debug\net6.0\Example005_ConditionIfELSE.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\obj\Debug\net6.0\refint\Example005_ConditionIfELSE.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\obj\Debug\net6.0\Example005_ConditionIfELSE.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\obj\Debug\net6.0\Example005_ConditionIfELSE.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Lecture1\Example005_ConditionIfELSE\obj\Debug\net6.0\ref\Example005_ConditionIfELSE.dll
